@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'todos',
 
     # Third party
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
